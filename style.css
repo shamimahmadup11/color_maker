@@ -1,0 +1,97 @@
+.container{
+    height: 50px;
+    width: 450px;
+    background-color: rgba(225, 89, 89, 0.603);
+    display: flex;
+    background: linear-gradient(to bottom , rgb(214, 149, 149), rgb(254, 254, 255), rgb(214, 149, 149));
+  
+    box-shadow: 0 0 30px rgb(160, 107, 107);
+    margin: 100px;
+}
+.red1{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(225, 71, 71);
+}
+.black1{
+    height: 50px;
+    width: 10px;
+    background-color: black;
+}
+.black2{
+    height: 50px;
+    width: 10px;
+    background-color: black;
+    margin-left: 7px;
+}
+.red2{
+    height: 50px;
+    width: 60px;
+    background-color:rgb(225, 71, 71);
+    margin-left: 290px;
+}
+.container1{
+    height: 50px;
+    width: 450px;
+    background-color: rgba(64, 161, 67, 0.603);
+    display: flex;
+    background: linear-gradient(to bottom , rgb(165, 224, 138), rgb(254, 254, 255), rgb(165, 224, 138));
+  
+    box-shadow: 0 0 30px rgb(64, 161,67, 0.603);
+    margin: 100px;
+}
+.green1{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(97, 170, 75);
+}
+.black3{
+    height: 50px;
+    width: 10px;
+    background-color: black;
+}
+.black4{
+    height: 50px;
+    width: 10px;
+    background-color: black;
+    margin-left: 7px;
+}
+.green2{
+    height: 50px;
+    width: 60px;
+    background-color: rgb(97, 170, 75);
+    margin-left: 290px;
+}
+
+.container2{
+    height: 50px;
+    width: 450px;
+    background-color: rgba(64, 161, 67, 0.603);
+    display: flex;
+    background: linear-gradient(to bottom ,rgb(138, 144, 224), rgb(254, 254, 255), rgb(138, 144, 224));
+  
+    box-shadow: 0 0 30px rgba(139, 105, 225, 0.603);
+    margin: 100px;
+}
+.blue1{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(71, 82, 232);
+}
+.black5{
+    height: 50px;
+    width: 10px;
+    background-color: black;
+}
+.black6{
+    height: 50px;
+    width: 10px;
+    background-color: black;
+    margin-left: 7px;
+}
+.blue2{
+    height: 50px;
+    width: 60px;
+    background-color:  rgb(71, 82, 232);
+    margin-left: 290px;
+}
